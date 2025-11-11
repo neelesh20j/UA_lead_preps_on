@@ -1,1 +1,1 @@
-console.log("mai nayi file34 hu");
+console.log("mai nayi hatt be file34 hu");
